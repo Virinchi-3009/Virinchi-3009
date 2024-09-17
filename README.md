@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virinchi</h1>
 <h3 align="center">I'm a Full stack developer</h3>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xjdDlxMHA0MjRidjF1czFlZjd1cWo4eWhjMHJvOWg3bDMydW54cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oL1Iw5q011M3tbfpCR/giphy.webp" style="width: 50%; height: auto; object-fit: cover; object-position: 0 -37.8px;" alt="Cropped GIF" align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xjdDlxMHA0MjRidjF1czFlZjd1cWo4eWhjMHJvOWg3bDMydW54cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oL1Iw5q011M3tbfpCR/giphy.webp" style="width: 50%; height: auto; object-fit: cover; object-position: 0 -100px;" alt="Cropped GIF" align="right">
 
 
 
