@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Virinchi</h1>
 <h3 align="center">I'm a Full stack developer</h3>
-<img align="right" src="https://www.pinterest.com/pin/the-weeknd-after-hours-gif-theweeknd-afterhours-blindinglights-discover-share-gifs--621215342353955127/">
+<img align="right" src="[https://www.pinterest.com/pin/the-weeknd-after-hours-gif-theweeknd-afterhours-blindinglights-discover-share-gifs--621215342353955127/](https://giphy.com/theweeknd)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchi-3009&label=Profile%20views&color=0e75b6&style=flat" alt="virinchi-3009" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thesensxo" target="blank"><img src="https://img.shields.io/twitter/follow/thesensxo?logo=twitter&style=for-the-badge" alt="thesensxo" /></a> </p>
