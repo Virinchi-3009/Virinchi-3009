@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virinchi</h1>
 <h3 align="center">I'm a Full stack developer</h3>
 
-<img src="https://media.giphy.com/media/M8QSwy6fT1wXTWCmXy/giphy.gif?cid=ecf05e47ovtqkpbc461p2y55zm7h5j2q4hqc9gghxsjx1cv6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="The Weeknd GIF" style="float: right;">
+<img src="https://media.giphy.com/media/M8QSwy6fT1wXTWCmXy/giphy.gif?cid=ecf05e47ovtqkpbc461p2y55zm7h5j2q4hqc9gghxsjx1cv6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="The Weeknd GIF" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virinchi-3009&label=Profile%20views&color=0e75b6&style=flat" alt="virinchi-3009" /> </p>
