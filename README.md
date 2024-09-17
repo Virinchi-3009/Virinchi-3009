@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #dcdcdc; background-color: #222; padding: 10px; border-radius: 5px;">I'm a Full stack developer</h3>
 
 <div style="width: 480px; height: 270px; overflow: hidden; background-color: #000; padding: 10px; border-radius: 10px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xjdDlxMHA0MjRidjF1czFlZjd1cWo4eWhjMHJvOWg3bDMydW54cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oL1Iw5q011M3tbfpCR/giphy.webp" style="width: 65%; height: auto; object-fit: cover; object-position: 0 -100px;" alt="Cropped GIF" align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xjdDlxMHA0MjRidjF1czFlZjd1cWo4eWhjMHJvOWg3bDMydW54cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oL1Iw5q011M3tbfpCR/giphy.webp" style="width: 45%; height: auto; object-fit: cover; object-position: 0 -100px;" alt="Cropped GIF" align="right">
 </div>
 
 <p align="left" style="color: #b0b0b0;"> <img src="https://komarev.com/ghpvc/?username=virinchi-3009&label=Profile%20views&color=0e75b6&style=flat" alt="virinchi-3009" /> </p>
