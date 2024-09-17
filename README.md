@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/thesensxo" target="blank"><img src="https://img.shields.io/twitter/follow/thesensxo?logo=twitter&style=for-the-badge" alt="thesensxo" /></a> </p>
 
-- 🔭 I’m currently working on **Detecting anomalies who are accessing dark web through TOR**
+- **🔭** I’m currently working on **Detecting anomalies who are accessing dark web through TOR**
 
-- 🌱 I’m currently learning **React.js, Django, Flask, Wireshark, Kubernetes**
+- **🌱** I’m currently learning **React.js, Django, Flask, Wireshark, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://virinchi-3009.github.io/portfolio/](https://virinchi-3009.github.io/portfolio/)
+- **👨‍💻** All of my projects are available at [https://virinchi-3009.github.io/portfolio/](https://virinchi-3009.github.io/portfolio/)
 
-- You can Check out the projects in the **master** branches of the **Repositories**
-
-- 📫 How to reach me **virinchimummudi@gmail.com**
+- **📫** How to reach me **virinchimummudi@gmail.com**
 
 <h3 align="left" style="color: #f0f0f0; background-color: #444; padding: 10px; border-radius: 5px;">Connect with me:</h3>
 <p align="left">
